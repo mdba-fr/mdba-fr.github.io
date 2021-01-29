@@ -2,7 +2,7 @@ Si vous êtes arrivé sur cette page, vous avez sans doute du scanner une affich
 
 Bienvenue sur le site de la campagne [#MangezDesBurgersAilleurs](https://mastodon.pirateparty.be/@mangezdesburgersailleurs) (MDBA)
 
-Vous trouverez des [affiches](https://github.com/mdba-fr/mdba), des liens sur l'optimisation fiscale et les entreprises qui s'y adonnent.
+Vous trouverez des [affiches](https://github.com/mdba-fr/mdba/tree/master/affiches), des liens sur l'optimisation fiscale et les entreprises qui s'y adonnent.
 
 Pourquoi?
 ---------
