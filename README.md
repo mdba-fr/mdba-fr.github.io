@@ -1,8 +1,8 @@
 Si vous êtes arrivé sur cette page, vous avez sans doute du scanner une affiche ou suivre un lien qui parle d'évasion fiscale et de multinationales de l'alimentaire
 
-Bienvenue sur le site de la campagne [#MangezDesBurgersAilleurs](https://mastodon.pirateparty.be/@mangezdesburgersailleurs)
+Bienvenue sur le site de la campagne [#MangezDesBurgersAilleurs](https://mastodon.pirateparty.be/@mangezdesburgersailleurs) (MDBA)
 
-Vous trouverez des affiches, des liens sur l'optimisation fiscale et les entreprises qui s'y adonnent.
+Vous trouverez des [affiches](https://github.com/mdba-fr/mdba), des liens sur l'optimisation fiscale et les entreprises qui s'y adonnent.
 
 Pourquoi?
 ---------
